@@ -1,0 +1,1 @@
+"# kaixin1"  initgit add README.mdgit commit -m "first commit"git remote add origin git@github.com:xh87727363/kaixin1.gitgit push -u origin master
